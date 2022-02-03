@@ -1,0 +1,19 @@
+
+.audio-controls {
+    background-color: rgb(21, 23, 151);
+    width: 50%;
+    min-height: 50px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    flex-wrap: wrap;
+  }
+  
+  button {
+    /* margin: 20px; */
+    padding: 10px 30px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
